@@ -1,2 +1,3 @@
-# Assignment-SQl
-SQL table and implement CRUD operations on it
+Install Vc Code 
+Create one python file 
+Click on the run button
