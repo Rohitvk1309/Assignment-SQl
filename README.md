@@ -1,3 +1,3 @@
-Install Vc Code 
+Install VsCode 
 Create one python file 
 Click on the run button
